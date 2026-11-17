@@ -11,7 +11,7 @@ Automated Bash monitoring and self-healing solution that inspects Docker contain
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/goswamikashyap/container-auto-heale.git
    cd container-auto-healer
    ```
 2. Copy the environment template and fill in your credentials:
