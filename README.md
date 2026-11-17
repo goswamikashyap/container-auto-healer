@@ -22,3 +22,15 @@ Automated Bash monitoring and self-healing solution that inspects Docker contain
    ```bash
    chmod +x setup_cron.sh && ./setup_cron.sh
    ```
+--------------------------------------------------------------------------------------------------------------------------------------------------
+## Live Proof of Execution
+
+### 1. Automated Recovery Log
+<img width="1088" height="301" alt="recoverylogs" src="https://github.com/user-attachments/assets/208e6cfe-5c56-4780-b0a9-902f943cd3bb" />
+
+### 2. Real-Time Slack Incident Alert
+<img width="1280" height="683" alt="slack" src="https://github.com/user-attachments/assets/8140e636-9271-4ece-b991-dca746f81082" />
+
+### 3. Automated Jira Incident Ticket
+<img width="821" height="670" alt="jiraticket" src="https://github.com/user-attachments/assets/3982d106-820a-4d15-be26-149b007a850a" />
+
